@@ -1,0 +1,9 @@
+torch
+faiss-cpu
+numpy
+transformers
+sentence_transformers
+pydantic
+SentencePiece
+fastapi
+uvicorn
